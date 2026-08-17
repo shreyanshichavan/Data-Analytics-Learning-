@@ -1,4 +1,5 @@
 Introduction to Data Analytics
+
 What is Data?
 
 Data means raw facts and information that are collected from different sources.
